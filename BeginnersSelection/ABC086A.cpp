@@ -5,7 +5,7 @@ int main() {
 	int a;
 	int b;
 
-	std::cin >> a >> b;
+	cin >> a >> b;
 
 	if ((a * b % 2) == 0) {
 		cout << "Even";
